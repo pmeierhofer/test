@@ -1,1 +1,4 @@
-# test
+consumer_key = fBdiXQ7CGauMbR1JRoBFtm5G3
+consumer_secret = YVXfHnMwX6iGyLW4furSq2VRptAz2TgtPR91W2yV2jjkneMDlr
+token_key = 893025436573327360-cxW4KdY1cAgXyabOTfp70tb3VXjmEca
+token_secret = YyVIwhWPFUF0u9AEz6sfLoAto4QQ6d3NN4bU6LXghdt67
